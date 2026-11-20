@@ -1,6 +1,7 @@
+
 # Generative AI Models
 
-A collection of implementations and experiments exploring generative deep learning models using PyTorch.
+A collection of implementations and experiments exploring generative deep learning models using **PyTorch**.
 
 ## Contents
 
@@ -20,6 +21,12 @@ A collection of implementations and experiments exploring generative deep learni
 - Adversarial training
 - Image generation
 
+## Goals
+
+- Understand generative modeling architectures.
+- Implement and experiment with different approaches.
+- Explore training strategies and generation processes.
+
 ## Repository Structure
 
 ```text
@@ -27,3 +34,9 @@ Gen-AI-Models/
 ├── Auto Encoders/
 ├── Diffusion models/
 └── Gans/
+```
+
+## Tech Stack
+
+- Python
+- PyTorch
